@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RayanDabaghia/Apostrophe-Academy/static/css/main.e2d4be1d.css",
-    "main.js": "/RayanDabaghia/Apostrophe-Academy/static/js/main.f3611170.js",
-    "static/js/453.c56bdfaa.chunk.js": "/RayanDabaghia/Apostrophe-Academy/static/js/453.c56bdfaa.chunk.js",
-    "index.html": "/RayanDabaghia/Apostrophe-Academy/index.html",
-    "main.e2d4be1d.css.map": "/RayanDabaghia/Apostrophe-Academy/static/css/main.e2d4be1d.css.map",
-    "main.f3611170.js.map": "/RayanDabaghia/Apostrophe-Academy/static/js/main.f3611170.js.map",
-    "453.c56bdfaa.chunk.js.map": "/RayanDabaghia/Apostrophe-Academy/static/js/453.c56bdfaa.chunk.js.map"
+    "main.css": "/Apostrophe-Academy/static/css/main.e2d4be1d.css",
+    "main.js": "/Apostrophe-Academy/static/js/main.ce83cf02.js",
+    "static/js/453.c56bdfaa.chunk.js": "/Apostrophe-Academy/static/js/453.c56bdfaa.chunk.js",
+    "index.html": "/Apostrophe-Academy/index.html",
+    "main.e2d4be1d.css.map": "/Apostrophe-Academy/static/css/main.e2d4be1d.css.map",
+    "main.ce83cf02.js.map": "/Apostrophe-Academy/static/js/main.ce83cf02.js.map",
+    "453.c56bdfaa.chunk.js.map": "/Apostrophe-Academy/static/js/453.c56bdfaa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2d4be1d.css",
-    "static/js/main.f3611170.js"
+    "static/js/main.ce83cf02.js"
   ]
 }
