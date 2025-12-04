@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RayanDabaghia/Apostrophe-Academy/static/css/main.e2d4be1d.css",
+    "main.js": "/RayanDabaghia/Apostrophe-Academy/static/js/main.f3611170.js",
+    "static/js/453.c56bdfaa.chunk.js": "/RayanDabaghia/Apostrophe-Academy/static/js/453.c56bdfaa.chunk.js",
+    "index.html": "/RayanDabaghia/Apostrophe-Academy/index.html",
+    "main.e2d4be1d.css.map": "/RayanDabaghia/Apostrophe-Academy/static/css/main.e2d4be1d.css.map",
+    "main.f3611170.js.map": "/RayanDabaghia/Apostrophe-Academy/static/js/main.f3611170.js.map",
+    "453.c56bdfaa.chunk.js.map": "/RayanDabaghia/Apostrophe-Academy/static/js/453.c56bdfaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2d4be1d.css",
+    "static/js/main.f3611170.js"
+  ]
+}
